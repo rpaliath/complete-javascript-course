@@ -1,0 +1,17 @@
+body {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+   
+}
+
+.fun {
+
+    color: white;
+    font-weight: bold;
+    
+    
+}
